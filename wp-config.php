@@ -15,16 +15,16 @@
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
-define('WP_CACHE', false); //Added by WP-Cache Manager
-//define( 'WPCACHEHOME', '/home2/nlk/public_html/nectar7/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
+define('WP_CACHE', true); //Added by WP-Cache Manager
+define( 'WPCACHEHOME', '/home2/nlk/public_html/nectar7/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
 /** The name of the database for WordPress */
-define('DB_NAME', 'nectar7');
+define('DB_NAME', 'nlk_wrdp37');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'nlk_wrdp37');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'NYHLa2Hu1EnVSCi');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
