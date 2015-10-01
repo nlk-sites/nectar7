@@ -1,0 +1,54 @@
+/* Front end CSS */
+
+
+/*
+------------------------------------------------------------------
+	JUMBOTRON, HEADER, MENU, SEARCH, TOP NAV, FEATURED IN
+------------------------------------------------------------------
+*/
+
+#masthead {
+	margin-bottom: 0;
+}
+#main-nav {
+	margin-bottom: 0;
+}
+
+/*
+------------------------------------------------------------------
+	HEADER, MENU, SEARCH, BREADCRUMBS
+------------------------------------------------------------------
+*/
+
+
+/*
+------------------------------------------------------------------
+	SIDEBAR, CTA
+------------------------------------------------------------------
+*/
+
+/* CTA Widget */
+#problogger-cta-widget {
+	margin-top: 20px;
+}
+#problogger-cta-widget .panel-heading:after {
+	background-color: transparent;
+	border-left: 139px solid transparent;
+	border-right: 139px solid transparent;
+	border-top: 30px solid transparent;
+	bottom: -30px;
+	content: '';
+	display: block;
+	left: 50%;
+	height: 0;
+	margin-left: -139px;
+	position: absolute;
+	width: 0;
+}
+#problogger-cta-widget h3 {
+	margin: .5em auto;
+}
+#problogger-cta-widget blockquote {
+	border-left: none;
+	padding: 0;
+}
