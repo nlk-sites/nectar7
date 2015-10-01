@@ -1,0 +1,45 @@
+/* ProBlogger Styles */
+
+/* ProBlogger Page Meta Boxes */
+#problogger-meta-options.categorydiv div.tabs-panel {
+	max-height: none;
+	min-height: 300px;
+}
+#problogger-meta-options h4 {
+	margin: 0 0 10px;
+}
+#problogger-meta-options label {
+	clear: both;
+	display: block;
+	margin-bottom: 10px;
+}
+#problogger-meta-options input[type="text"],
+#problogger-meta-options select {
+	margin: 5px 0;
+	max-width: 400px;
+	width: 100%;
+}
+#problogger-meta-options input[type="button"] {
+	margin: 5px 0;
+}
+#problogger-meta-options fieldset {
+	margin-bottom: 10px;
+}
+
+/* ProBlogger Jumbotron Meta Boxes */
+#jumbotron-meta-options.categorydiv div.tabs-panel {
+	max-height: none;
+	overflow-x: hidden;
+}
+#jumbotron-meta-options label {
+	clear: both;
+	display: block;
+	margin-bottom: 10px;
+}
+
+#jumbotron-meta-options .wp-picker-holder {
+	margin-left: -13px;
+}
+
+
+/* Customizer */
